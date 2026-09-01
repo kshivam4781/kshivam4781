@@ -7,6 +7,7 @@ Based in Tracy, California.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivamsinghs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/kshivam4781?style=flat&logo=github&label=followers" />
 </p>
 
 ---
@@ -28,13 +29,6 @@ Based in Tracy, California.
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
-</p>
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kshivam4781&show_icons=true&theme=default&hide_title=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshivam4781&layout=compact" />
 </p>
 
 ---
