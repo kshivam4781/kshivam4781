@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Shivam+%F0%9F%91%8B;Full-Stack+%26+AI+Agent+Engineer;I+ship+automation+that+actually+runs;Open-sourcing+fixes+across+other+repos+too" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+Shivam+%F0%9F%91%8B;Full-Stack+%26+AI+Agent+Engineer;I+ship+automation+that+actually+runs;Open-sourcing+fixes+across+other+repos+too" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,13 +21,14 @@ Based in Stockton, California.
 - **[neighbor-dispatch](https://github.com/kshivam4781/neighbor-dispatch)** — agent-assisted matching for disaster-relief mutual-aid coordinators, built for the *Agents for Humans* hackathon on the Strands Agents SDK, with a human-approval gate baked into the code, not just the UI.
 - **[AskFMCSA](https://github.com/kshivam4781/AskFMCSA)** — Playwright automation that fills and submits FMCSA support tickets automatically.
 - **[VisualAID](https://github.com/kshivam4781/VisualAID)** — an AI aid for visually impaired users.
-- **[techconnect-live](https://github.com/kshivam4781/techconnect-live)** — a live, random-match networking app for tech professionals.
+- **[techconnect-live](https://github.com/kshivam4781/techconnect-live)** — the code behind **[Vinamah](https://vinamah.com)**, an Omegle-style networking platform for professionals: real one-to-one conversations instead of posts, likes, and algorithms.
 - **[githire](https://github.com/kshivam4781/githire)** — analyzes candidate data using GitHub and other signals.
+- **[DarwinianSIA](https://github.com/kshivam4781/DarwinianSIA)** — a contradiction-aware belief system for self-improving AI agents: instead of only optimizing benchmark scores, it tracks beliefs, surfaces contradictions between them, and turns those into the next experiment to run.
 - Internal tools and client-facing web apps for **Sky Transport Solutions**, a trucking compliance & permits company (DOT numbers, MC Authority, IRP, IFTA).
 
 ### 🌱 Active in open source
 
-Chasing genuine contributions, not a streak — these are real PRs against other people’s codebases, currently in review:
+Chasing genuine contributions, not a streak — these are real PRs against other people's codebases, currently in review:
 
 | Repo | Contribution | Status |
 |---|---|---|
@@ -35,6 +36,9 @@ Chasing genuine contributions, not a streak — these are real PRs against other
 | [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service/pull/20264) | Added a request-number column to the requests table (webui) | ![PR status](https://img.shields.io/github/pulls/detail/state/openSUSE/open-build-service/20264) |
 | [saikiran9185/research-canvas-app](https://github.com/saikiran9185/research-canvas-app/pull/6) | Added a keyboard-shortcuts help overlay | ![PR status](https://img.shields.io/github/pulls/detail/state/saikiran9185/research-canvas-app/6) |
 | [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh/pull/333) | Synced a stale diagram/translation with upstream | ![PR status](https://img.shields.io/github/pulls/detail/state/hust-open-atom-club/linux-insides-zh/333) |
+| [K1rL3s/maxo](https://github.com/K1rL3s/maxo/pull/310) | Fixed shutdown signals being skipped/misfired when polling is cancelled | ![PR status](https://img.shields.io/github/pulls/detail/state/K1rL3s/maxo/310) |
+| [zero-shelter/zero-shelter](https://github.com/zero-shelter/zero-shelter/pull/221) | Fixed an unpinned osv-scanner checksum in an example | ![PR status](https://img.shields.io/github/pulls/detail/state/zero-shelter/zero-shelter/221) |
+| [zero-shelter/zero-shelter](https://github.com/zero-shelter/zero-shelter/pull/229) | Fixed an unverifiable "clears N" count in the HTML report | ![PR status](https://img.shields.io/github/pulls/detail/state/zero-shelter/zero-shelter/229) |
 
 ### 🛠️ Tech I work with
 
@@ -66,9 +70,9 @@ Chasing genuine contributions, not a streak — these are real PRs against other
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshivam4781/kshivam4781/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshivam4781/kshivam4781/output/github-contribution-grid-snake.svg" />
-  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/kshivam4781/kshivam4781/output/github-contribution-grid-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshivam4781/kshivam4781/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshivam4781/kshivam4781/output/github-contribution-grid-snake.svg" />
+<img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/kshivam4781/kshivam4781/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ### 💬 Ask me about
